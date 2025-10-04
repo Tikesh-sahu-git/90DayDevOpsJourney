@@ -1,68 +1,49 @@
-# Day 2 – DevOps Learning Journey
+# 🚀 90 Days of DevOps Journey  
 
-## 📖 Topics Covered
-- Linux user and group management  
-- File permissions and ownership  
-- Basics of shell scripting and automation  
+I’m documenting my daily progress and learnings from my **90-Day DevOps Learning Path**.  
 
 ---
 
-## 🛠️ Practical Experience
-- Created and managed Linux users and groups  
-- Assigned users to groups and switched between accounts  
-- Modified file and directory permissions using `chmod`  
-- Changed ownership of files with `chown`  
-- Wrote and executed simple shell scripts for automation  
+## 📅 Day 2 – Operating Systems & Linux  
+
+### ✅ What I Learned  
+- **Operating System (OS)** – Software that connects users, applications, and hardware.  
+- **Linux** – Open-source, secure, and widely used in servers & DevOps.  
+- **Linux Architecture** –  
+  - **Kernel** → Core of the OS (manages resources).  
+  - **Shell** → Interface to run commands.  
+  - **File System** → Organizes data.  
+  - **Applications** → User programs.  
+- **Linux File System** – Everything is treated as a file, organized under `/` (root).  
+- **Basic Commands** – `pwd`, `ls`, `cd`, `mkdir`, `rm`.  
+
+✨ **Key Lesson**: Linux is the backbone of DevOps — learning it is like learning the **language of servers**!  
 
 ---
 
-## 📂 Command Examples
-```bash
-# User & Group Management
-whoami               # Show current user
-id                   # Display user ID and groups
-sudo adduser devops  # Add a new user
-sudo groupadd admins # Create a new group
-groups devops        # Show groups for a user
-su devops            # Switch user
-sudo userdel devops  # Delete a user
-
-# Permissions & Ownership
-ls -l                       # View file permissions
-chmod 755 script.sh         # Change permissions (rwxr-xr-x)
-chmod u+x script.sh         # Add execute permission for user
-sudo chown devops:admins file.txt   # Change ownership
-
-# Shell Basics
-echo "Hello DevOps"         # Print text
-DATE=$(date)                # Store current date in variable
-echo "Today is $DATE"
-nano script.sh              # Create/edit script
-chmod +x script.sh          # Make script executable
-./script.sh                 # Run script
-```
-
-
-## 📜 Example Shell Script
-```bash
-#!/bin/bash
-echo "Hello DevOps 🚀"
-echo "Today is $(date)"
-echo "Logged in as $(whoami)"
-```
-
-## 💡 Key Insights
-
-* User and group management is essential for controlling access in Linux systems.
-
-* Permissions (r, w, x) ensure security and prevent unauthorized actions.
-
-* Shell scripting introduces automation, which is a cornerstone of DevOps practices.
-## 🔗 Daily Progress
-
-This repository documents my 90-Day DevOps Journey, including daily notes, scripts, and hands-on exercises.
-Follow my progress on LinkedIn: #100DaysOfDevOps #LearningInPublic
+## 🖥️ Linux Architecture  
+![Linux Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20230804122221/Linux-Architecture.png)  
 
 ---
 
-👉 Do you want me to also plan **Day 3 (Linux networking basics: IP, ping, curl, netstat, SSH, etc.)** with a LinkedIn draft + README template so you’ll be ready in advance?
+## 📂 Linux File System  
+![Linux File System](https://static.javatpoint.com/linux/images/linux-file-system.png)  
+
+---
+
+## 📝 Key Takeaways  
+- OS = Bridge between **hardware, apps, and users**.  
+- Linux = **Open-source + Secure + DevOps standard**.  
+- Everything in Linux = **File under root (/)**.  
+- Mastering commands = Mastering Linux.  
+
+---
+
+## 🌍 Connect With Me  
+- 💻 GitHub: [90DaysOfDevOps](#)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
+
+---
+
+### 🔖 Hashtags  
+`#DevOps #Linux #Learning #Day2 #90DaysOfDevOps #LearningInPublic`

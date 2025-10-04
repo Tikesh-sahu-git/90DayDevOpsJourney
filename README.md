@@ -1,44 +1,51 @@
-# 90-Day DevOps Learning Journey
+# 🚀 90 Days of DevOps Journey  
 
-Welcome to my **90-day DevOps journey**! This repository contains all the notes, scripts, projects, and hands-on exercises I’m working on to become a job-ready DevOps engineer.
-
----
-
-## 📚 What’s Inside
-
-- **Linux** – Commands, file system, users & permissions, Bash scripting  
-- **Git & GitHub** – Version control, branching, merging, GitHub workflows  
-- **CI/CD** – Jenkins, GitHub Actions, GitLab CI/CD pipelines  
-- **Docker** – Containers, Docker Compose, Dockerfiles  
-- **Kubernetes** – Pods, Deployments, Services, Helm charts  
-- **Terraform & Ansible** – Infrastructure as Code, server configuration  
-- **AWS Cloud** – EC2, S3, VPC, EKS, RDS, IAM  
-- **Monitoring & Logging** – Prometheus, Grafana, ELK Stack  
-- **DevSecOps** – Security scanning, secrets management  
-- **Capstone Projects** – End-to-end projects combining all tools  
+I’m documenting my daily progress and learnings from my **90-Day DevOps Learning Path**.  
 
 ---
 
-## 🛠 How to Use This Repo
+## 📅 Day 3 – Linux Users, Permissions, Processes & More  
 
-- Each folder is organized by **topic and day** (Day1, Day2…Day90).  
-- Hands-on exercises and scripts are included for practice.  
-- Notes and screenshots are added for reference.  
+### ✅ What I Learned  
+- **Users & Groups** – Manage access and permissions.  
+- **File Permissions** – `Read (r)`, `Write (w)`, `Execute (x)`.  
+- **Processes & Jobs** – View and control running tasks (`ps`, `top`, `kill`, `jobs`, `fg`, `bg`).  
+- **Networking & Package Management** – Tools like `ping`, `apt`, `yum`.  
+- **Logs & Monitoring** – Use `/var/log` for troubleshooting and system health.  
 
----
-
-## 🚀 My Goal
-
-- Learn DevOps fundamentals **step by step**  
-- Build real-world projects and pipelines  
-- Share progress and knowledge with the community  
+✨ **Key Lesson**: Mastering these Linux basics is **essential for every DevOps engineer**!  
 
 ---
 
-## 📌 Follow My Journey
-
-I’m sharing my daily progress on LinkedIn: **#100DaysOfDevOps #LearningInPublic**  
+## 👤 Linux Users & Groups  
+![Linux Users](https://www.tutorialspoint.com/unix/images/unix-user-group.jpg)  
 
 ---
 
-Feel free to ⭐ star this repo if you find it helpful!
+## 🔑 File Permissions  
+![Linux File Permissions](https://www.javatpoint.com/linux/images/linux-file-permission.png)  
+
+---
+
+## ⚙️ Processes & Jobs  
+![Linux Processes](https://static.javatpoint.com/linux/images/linux-process-management.png)  
+
+---
+
+## 📝 Key Takeaways  
+- Users & Groups = **Access control & security**.  
+- File Permissions = **Who can do what** with files.  
+- Processes = **Running tasks you can manage**.  
+- Logs = **Your best friend for debugging**.  
+- Package Managers = **Easily install and manage software**.  
+
+---
+
+## 🌍 Connect With Me  
+- 💻 GitHub: [90DaysOfDevOps](#)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
+
+---
+
+### 🔖 Hashtags  
+`#DevOps #Linux #Learning #Day3 #90DaysOfDevOps #LearningInPublic`

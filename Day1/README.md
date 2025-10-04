@@ -1,30 +1,48 @@
-# Day 1 – DevOps Learning Journey
+# 🚀 90 Days of DevOps Journey  
 
-## 📖 Topics Covered
-- Importance of Linux in DevOps and system administration  
-- Linux filesystem hierarchy (`/home`, `/etc`, `/var`)  
-- Essential navigation commands (`pwd`, `ls`, `cd`)  
-- File and directory management (`touch`, `mkdir`, `cp`, `mv`, `rm`)  
-- Viewing file contents (`cat`, `less`, `head`, `tail`)  
+I’m documenting my daily progress and learnings from my **90-Day DevOps Learning Path**.  
 
 ---
 
-## 🛠️ Practical Experience
-- Configured and worked within a Linux environment (VM/WSL)  
-- Navigated the filesystem and explored system directories  
-- Created, modified, and deleted files and directories  
-- Practiced search and view operations using common Linux utilities  
-- Documented notes and committed changes to GitHub for version control  
+## 📅 Day 1 – Introduction to DevOps  
+
+### ✅ What I Learned  
+- **DevOps** – Brings Developers & Operations together to build and deliver software faster.  
+- **DevOps Lifecycle** – Steps: *Plan → Code → Test → Release → Run → Monitor → Improve*.  
+- **SDLC (Software Development Life Cycle)** – Process: *Plan → Design → Build → Test → Deploy → Maintain*.  
+- **Agile** – Work in small steps, get quick feedback, and improve continuously.  
+
+✨ **Key Lesson**: DevOps is not just about tools — it’s about **teamwork, culture, and continuous improvement**.  
 
 ---
 
-## 📂 Command Examples
-```bash
-pwd                     # Display current directory
-ls -l                   # List files with detailed information
-cd /home                # Navigate to home directory
-mkdir devops-practice   # Create a new directory
-touch notes.txt         # Create a new file
-cp notes.txt backup/    # Copy file to backup folder
-mv notes.txt docs/      # Move file to docs folder
-rm notes.txt            # Delete file
+## 🔄 DevOps Lifecycle  
+![DevOps Lifecycle](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*9zKn7Jsbgx5-pM7QOxS8Qg.png)  
+
+---
+
+## 📐 Software Development Life Cycle (SDLC)  
+![SDLC](https://static.javatpoint.com/tutorial/software-engineering/images/software-development-life-cycle.png)  
+
+---
+
+## ⚡ Agile Methodology  
+![Agile](https://www.synopsys.com/content/dam/synopsys/sig-assets/images/agile-methodology.jpg)  
+
+---
+
+## 📝 Key Takeaways  
+- DevOps = **Collaboration + Automation + Improvement**  
+- SDLC = **Step-by-step software development process**  
+- Agile = **Flexibility, speed, teamwork**  
+
+---
+
+## 🌍 Connect With Me  
+- 💻 GitHub: [90DaysOfDevOps](#)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
+
+---
+
+### 🔖 Hashtags  
+`#DevOps #Learning #Agile #SDLC #Day1 #Journey #LearningInPublic #CareerGrowth #90DaysOfDevOps`
